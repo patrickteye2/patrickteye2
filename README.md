@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @patrickteye2
-- 👀 I’m interested in front-end 
-- 🌱 I’m currently polishing react
-- 💞️ I’m looking to contribute as much as i can
+- 👋 Hi, I’m Patrick 
+- 👀 I’m interested in front-end development (for noww)
+- 🌱 I’m currently polishing my skills in react.js
+- 💞️ I’m looking to contribute as much as I can all platforms
 - 📫 How to reach me patrick96rich@gmail.com
 
 <!---
