@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Patrick. A data analyst and front-end web developer.
 - 👀 I’m interested in builing solutions for modern day business problems.
-- 🌱 Major library is react js, numpy, pandas.
-- 💞️ I’m looking to contribute as much as I can to help the community.
+- 🌱 Major libraries are react js, numpy, pandas.
+- 💞️ I’m looking to contribute as much as I can to help the community to grow.
 - 📫 Reach out at patrick96rich@gmail.com
 
 <!---
